@@ -1,5 +1,8 @@
 # hw14-techBlog
 
+This project was to create an app for posting blogs, as well as being able to comment on others' posts. It is required to follow the MVC paradigm, use the Handlebars.js templating langauge, use Sequelize for the ORM, and express-session npm package for authentication.
+
+
 ## User Story:
 AS A developer who writes about tech
 I WANT a CMS-style blog site
